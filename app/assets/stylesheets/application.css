@@ -13,3 +13,43 @@
  *= require_tree .
  *= require_self
  */
+
+a {
+  color: #000;
+}
+
+a:visited {
+  color: #666;
+}
+
+.flash-message {
+  color: green;
+}
+
+body {
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+  margin: 33px;
+}
+
+h1 {
+  margin-left: 20px;
+}
+
+.container {
+  margin-left: 58px;
+  line-height: 55px;
+}
+
+.field p {
+  margin-bottom: 5px;
+}
+
+.actions {
+  margin-top: 10px;
+}
+
+.container-book {
+  margin-left: 25px;
+}
